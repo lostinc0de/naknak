@@ -2,5 +2,10 @@
 name = "naknak"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = ""
+repository = "https://github.com/lostinc0de/naknak"
+readme = "README.md"
+keywords = ["cipher"]
 
 [dependencies]
